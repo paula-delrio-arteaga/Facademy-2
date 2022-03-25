@@ -18,7 +18,7 @@ Now we started designing how will the spirulina be displayed and how would it wo
 
 At first we wanted to create a base box that would hold the 4 bottles of spirulina we wanted to have, one for each of us. The design was intended to have the electronics in the box with the led lights facing upwards to the spirulina. We wanted to do the box with cnc and add some curves which would be done with milling so it would add a more organic aesthethic to it. 
 
-![photo1](/images/sketch1.png)
+![boxcurvessketch](/Images/sketch1.png)
 
 After discussing it we realised it would take a lot of time to fabricate and we would also have a lot of kerf. After assesing this and seeing more options we decided to change the design into something that would make more sense with an organic structure around the spirulina. So we decided to test this and start sketching some ideas. When we finally agreed on a design we divided by tasks. 
 

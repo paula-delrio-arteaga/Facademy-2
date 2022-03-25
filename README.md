@@ -14,16 +14,17 @@ We wanted to explore the properties of algae for different individual purposes s
 
 We started by defining the needs of our algae and how many cultures we wanted to have. We decided to start with spirulina. We ordered the spirulina and while it arrived we started researching what we needed in order to keep it alive and help it grow. We got a manual which we are attaching in the files. From this we were able to make a list of the things we needed for cultivating the spirulina. We also reserached how the electronics would work and what parts we needed to get. After having in mind all the components neeeded then we could figure out how the design could look like. 
 
-![boxcurvessketch](/Images/pbr7.jpg)
+![spirulinalove](/Images/pbr7.jpg)
 
 Now we started designing how will the spirulina be displayed and how would it work. The tricky part in this was integrating the electronics into the stand for the spirulina. Needing them to be sort of close but also protected in case of any spills.
 
 At first we wanted to create a base box that would hold the 4 bottles of spirulina we wanted to have, one for each of us. The design was intended to have the electronics in the box with the led lights facing upwards to the spirulina. We wanted to do the box with cnc and add some curves which would be done with milling so it would add a more organic aesthethic to it. 
 
+![boxcurvessketch](/Images/sketch1.png)
 
 After discussing it we realised it would take a lot of time to fabricate and we would also have a lot of kerf. After assesing this and seeing more options we decided to change the design into something that would make more sense with an organic structure around the spirulina. So we decided to test this and start sketching some ideas. When we finally agreed on a design we divided by tasks. 
 
-![boxcurvessketch](/Images/sketch5.jpg)
+![sketchstand](/Images/sketch5.jpg)
 
 #### CNC
 
@@ -35,28 +36,32 @@ After discussing it we realised it would take a lot of time to fabricate and we 
   
   -Once we had the nc code we went to the machine, we put out glasses, hair tie and ear cuffs on (safety first). 
   
+  ![safetyfirst](/Images/pbr31.jpg)
+  
   -We cleaned the bed of the cnc of any extra material left from before, we placed our plywood sheet and aligned it to the borders of the bed. Then we calibrated the z axis with the button of the cnc. So we placed the button below the tip of the CNC and calibrated it. After getting that ready we opened our file in the computer and ran the screws file. 
   
   -After the marks for the screws were done we moved the head of the CNC in order to get on top and screw. 
   
-  ![boxcurvessketch](/Images/pbr6.jpg)
+  ![screwingplywood](/Images/pbr23.jpg)
   
   -Once the material was already screwed onto the bed we were able to run the rest of the file. Our file took about 1:20.
   
-  ![boxcurvessketch](/Images/pbr4.jpg)
+  ![cnccut](/Images/pbr4.jpg)
   
   -When the machine was done, we moved the Z axis up and moved it back so we could check if all of the cuts were done properly. After we made sure they were, we went on the bed to take out the screws and remove our pieces and the rest of the material.
+  
+  ![bedtakingout](/Images/pbr6.jpg)
   
   -*We first had only the curves in the file and we realised we put the pocketing all the way through so we had to stop the machine and cut again but moving our pieces so it wouldn't intersect with the new cut. After cutting the curves we added the files of the box. 
   
   -Postprocessing: After getting all the pieces out, we started sanding them to remove excess bits and leave the piece smooth for assembling. 
   
-  ![boxcurvessketch](/Images/pbr22.jpg)
+  ![sanding](/Images/pbr22.jpg)
   
   -Once the curves were ready we were able to glue them together. We applied a thin layer of glue and then used the clamps to hold it together while the glue was doing its job.
   
-  ![boxcurvessketch](/Images/pbr21.jpg)
-  ![boxcurvessketch](/Images/pbr20.jpg)
+  ![curveglue](/Images/pbr21.jpg)
+  ![curveclamping](/Images/pbr20.jpg)
   
 #### 3D PRINTING
 
@@ -72,10 +77,10 @@ After discussing it we realised it would take a lot of time to fabricate and we 
  
  -We spent some time taking out the extra filaments for support and sanding a bit some parts. Then we were able to assemble them for the stand. 
  
- ![boxcurvessketch](/Images/pbr26.jpg)
- ![boxcurvessketch](/Images/pbr19.jpg)
- ![boxcurvessketch](/Images/pbr27.jpg)
- ![boxcurvessketch](/Images/pbr28.jpg)
+ ![3dprinting1](/Images/pbr26.jpg)
+ ![3dprinting2](/Images/pbr19.jpg)
+ ![3dprinting3](/Images/pbr27.jpg)
+ ![3dprinting4](/Images/pbr28.jpg)
  
  #### ELECTRONICS
  
@@ -98,7 +103,7 @@ After discussing it we realised it would take a lot of time to fabricate and we 
   
   -Marina prepared the file in rhino and inserted the GROW LAB text for it to be engraved. Once it was done we opened the file in the computer, calibrated the laser cutter with the tool. Chose our material and moved the laser to where we wanted it to start cutting. After this then we put the parameters for acrylic and the type of cut and we sent the job. 
   
- ![boxcurvessketch](/Images/pbr25.jpg)
+ ![acryliccut](/Images/pbr25.jpg)
  
  #### 3D SCANNING
  
@@ -108,11 +113,20 @@ After discussing it we realised it would take a lot of time to fabricate and we 
   
   -This was a bit complicated and in the end the redult was not desirable and we went back to just measuring the different diameters in the bottle neck. 
   
-  ![boxcurvessketch](/Images/pbr22.jpg)
+  ![3dscanbottle](/Images/pbr30.jpg)
+  
+ #### ASSEMBLING
+ 
+  -After having all our pieces together it was time to assemble them together. We started by trying to fit them and making adjustments like sanding or drilling in case they didn't fit perfectly and then put everything we had into place. 
+  
+  ![assemblingrack](/Images/pbr29.jpg)
+  
 
 ### SYSTEM DIAGRAM (FUNCTION, PARTS, RELATIONS)
 
-![photo1](/images/pbr.png)
+![hangingbottlestand](/images/sketch7.jpg)
+
+![bottlehugger](/Images/sketch6.jpg)
 
 ### DESIGN ELEMENTS (HOW YOU DESIGNED IT)
 

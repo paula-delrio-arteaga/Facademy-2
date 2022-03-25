@@ -28,7 +28,7 @@ After discussing it we realised it would take a lot of time to fabricate and we 
 
 #### CNC
 
-  -Paula B started making the 3D model and plans of the curves that would be fitting below the hung spirulina bottles. Pippa 3D modelled the electronics box in which we were going to place the power, pumps, arduino and the cables. We decided to cut it in 15mm plywood. We cut 2 pieces and added a 5mm pocketing in which the LED lights would pass through, so when we glued both pieces together we could have a 1 cm rail. 
+  -We started making the 3D model and plans of the curves that would be fitting below the hung spirulina bottles. We 3D modelled the electronics box in which we were going to place the power, pumps, arduino and the cables. We decided to cut it in 15mm plywood. We cut 2 pieces and added a 5mm pocketing in which the LED lights would pass through, so when we glued both pieces together we could have a 1 cm rail. 
   
   -After setting up the file in rhino, we used the rhinoCam plug in and generated the code for the CNCing. We started by setting up a box which would be the material we selected and the dimensions of it. We used a board of 1200x2400x15.6 aprox. We then defined which curves would be an outer cut, inner cut and pocketing.
   
@@ -65,7 +65,7 @@ After discussing it we realised it would take a lot of time to fabricate and we 
   
 #### 3D PRINTING
 
-  -Marina and Pippa prepared the 3D files for 3D printing. 
+  -We prepared the 3D files for 3D printing. 
   
   -Understanding first the pieces needed and their functions. When the type of joineries were defined we started measuring the dimensions of the material they would be attached to in order for them to fit correctly.
   
@@ -101,7 +101,7 @@ After discussing it we realised it would take a lot of time to fabricate and we 
  
   -We decided to laser cut an acrylic lid for the electronic box the have electronics visible. 
   
-  -Marina prepared the file in rhino and inserted the GROW LAB text for it to be engraved. Once it was done we opened the file in the computer, calibrated the laser cutter with the tool. Chose our material and moved the laser to where we wanted it to start cutting. After this then we put the parameters for acrylic and the type of cut and we sent the job. 
+  -We prepared the file in rhino and inserted the GROW LAB text for it to be engraved. Once it was done we opened the file in the computer, calibrated the laser cutter with the tool. Chose our material and moved the laser to where we wanted it to start cutting. After this then we put the parameters for acrylic and the type of cut and we sent the job. 
   
  ![acryliccut](/Images/pbr25.jpg)
  
@@ -130,7 +130,7 @@ After discussing it we realised it would take a lot of time to fabricate and we 
 
 ### SYSTEM DIAGRAM (FUNCTION, PARTS, RELATIONS)
 
-![hangingbottlestand](/images/sketch7.jpg)
+![hangingbottlestand](/Images/sketch7.jpg)
 
 ![bottlehugger](/Images/sketch6.jpg)
 

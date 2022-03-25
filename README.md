@@ -189,7 +189,10 @@ After discussing it we realised it would take a lot of time to fabricate and we 
 ### LINKS TO INDIVIDUAL PAGES
 
 https://paula-bustos.github.io/peebee/
+
 https://marina-lermant.github.io/mdef-website/
+
 https://philippa-formosa.github.io/mdefweb/
+
 https://paula-delrio-arteaga.github.io/mdef/
 

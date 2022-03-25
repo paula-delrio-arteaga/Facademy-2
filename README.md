@@ -140,11 +140,11 @@ After discussing it we realised it would take a lot of time to fabricate and we 
 
   #####ELECTRONICS BOX
   
-  ![assemblingrack](/Files/pbr1.jpg)
+  ![assemblingrack](/Files/Box Cutting file.3dm)
   
   #####CURVES
   
-  ![assemblingrack](/Files/pbr1.jpg)
+  ![assemblingrack](/Files/curvesbottles.3dm)
   
   
   #####CODE
@@ -153,21 +153,43 @@ After discussing it we realised it would take a lot of time to fabricate and we 
   
   ####3D PRINTING FILES
   
-  ![assemblingrack](/Files/pbr1.jpg)
+  ![assemblingrack](/Files/3D printing file bottle Holder .stl)
+  
+  ![assemblingrack](/Files/joint 2.stl)
+  
+  ![assemblingrack](/Files/ring.stl)
 
 ### BOM (BUILD OF MATERIALS) 
 
 ### CODING LOGIC (ALGORITHMS AND FLOWCHARTS, PSEUDOCODING)
 
-### PHOTOS OF FINAL PRODUCT
+### FINAL PRODUCT
+
+## NOT READY!
 
 
-### ITERATION PROCESS (PROBLEMS AND SOLUTIONS)
+### ITERATION PROCESS
 
 - We struggled first to find a design that could fit our necessities, the algae's and the electronic's. In this case we prioritised figuring out the electronics first and then seeing how we would connect them to the design.
 
--Our idea at some point was to CNC 
+-Our idea at some point was to CNC the stand but when testing the resistance of the material we realised it wasn't going to hold the weight of our bottles. Also if we CNC'd the stand it would have been a lot of material and a lot of waste. We decided to simplify the stand and use pine wood rods attached to joints that would be 3D printed. 
+
+-One 3D printed piece broke when we were trying to take it out of the bed so we had to 3D print a new one which set us back a bit. But we managed to move on with another task in order to make the most of the time we had left. 
+
+-While assembling our stand one of the 3D printed joints that was holding our curve broke so we had to tape it in the meantime while we printed a new one.
+
+-We had some difficulties understanding the logics of the pump and the tubing system. So we spent a lot of time trying to make sense of it and testing it. 
+
+-All of this while also taking care of our spirulina which had us a bit nervous it would be dying but with the pumping system and the microcontroller turning it on every 25 min for 5 min, we had it all under control.
 
 ### FUTURE DEVELOPMENT OPPORTUNITIES
 
+-For our future development plans we want to continue improving the design until we find something that fits our purposes. We all have different ideas for this spirulina growing system we would like to develop further. We would like to explore the possibility of making it more compact and portable. Now that we know the logics of it we could figure out a way to compact everything into a smaller design. For now we are only focusing on the growth of the algae but in the future we would like to add other sensors that could track down the amount of CO2 it is sequestering or transforming this system into a biophotovoltaic system generating energy, exploring what we could do with the spirulina like using it as food, biomaterials or even biofuel. 
+
 ### LINKS TO INDIVIDUAL PAGES
+
+https://paula-bustos.github.io/peebee/
+https://marina-lermant.github.io/mdef-website/
+https://philippa-formosa.github.io/mdefweb/
+https://paula-delrio-arteaga.github.io/mdef/
+

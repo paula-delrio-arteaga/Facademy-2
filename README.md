@@ -54,9 +54,21 @@ Now we started designing how will the spirulina be displayed and how would it wo
  
  #### ELECTRONICS
  
+  -
+  
+  -
+  
+  -
+  
+  -
+  
+  -
+ 
  
 
 ### SYSTEM DIAGRAM (FUNCTION, PARTS, RELATIONS)
+
+![photo1](/images/pbr.png)
 
 ### DESIGN ELEMENTS (HOW YOU DESIGNED IT)
 

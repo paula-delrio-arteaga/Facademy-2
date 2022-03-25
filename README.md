@@ -119,7 +119,13 @@ After discussing it we realised it would take a lot of time to fabricate and we 
  
   -After having all our pieces together it was time to assemble them together. We started by trying to fit them and making adjustments like sanding or drilling in case they didn't fit perfectly and then put everything we had into place. 
   
-  ![assemblingrack](/Images/pbr29.jpg)
+  -Making the stand, we measured the dimensions we wanted the stand to have and then sanded the rod so it could fit well into the 3D pieces. 
+  
+  ![assemblingrack](/Images/pbr1.jpg)
+  
+  -We also had to figure out how would the tubing system would work and where they would go into the bottles and out from them. We drilled holes into the top of the bottle caps so the tubes would come in and out.
+  
+  ![marinadrill](/Images/pbr2.jpg)
   
 
 ### SYSTEM DIAGRAM (FUNCTION, PARTS, RELATIONS)
@@ -131,6 +137,23 @@ After discussing it we realised it would take a lot of time to fabricate and we 
 ### DESIGN ELEMENTS (HOW YOU DESIGNED IT)
 
 ### DESIGN AND FABRICATION FILES
+
+  #####ELECTRONICS BOX
+  
+  ![assemblingrack](/Files/pbr1.jpg)
+  
+  #####CURVES
+  
+  ![assemblingrack](/Files/pbr1.jpg)
+  
+  
+  #####CODE
+  
+  ![assemblingrack](/Files/pbr1.jpg)
+  
+  ####3D PRINTING FILES
+  
+  ![assemblingrack](/Files/pbr1.jpg)
 
 ### BOM (BUILD OF MATERIALS) 
 

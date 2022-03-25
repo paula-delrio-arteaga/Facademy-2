@@ -54,7 +54,8 @@ Now we started designing how will the spirulina be displayed and how would it wo
  
  #### ELECTRONICS
  
-  -
+  - Figuring out all the connections to the power supply since we have an Air Pump of 220v, a peristaltic Pump of of 12v and a LED strip of 12v plus our microcontroller ESP32 feather to controll the timing of each component. 
+  - We thought we could use the power supply (12v 1A) from the LEDs to also connect the peristaltic pump since it has the same voltage. But after checking how many ampers each component needs, we decided to swith all the connections to a bigger power supply of 12v with 16.5 Ampers. In case we need to scale the project we would be able to connect more pumps to the same power supply. The LED requieres a 0.85 Ampers and the peristaltic pump 0.2 Ampers. 
   
   -
   

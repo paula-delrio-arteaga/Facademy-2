@@ -14,6 +14,8 @@ We wanted to explore the properties of algae for different individual purposes s
 
 We started by defining the needs of our algae and how many cultures we wanted to have. We decided to start with spirulina. We ordered the spirulina and while it arrived we started researching what we needed in order to keep it alive and help it grow. We got a manual which we are attaching in the files. From this we were able to make a list of the things we needed for cultivating the spirulina. We also reserached how the electronics would work and what parts we needed to get. After having in mind all the components neeeded then we could figure out how the design could look like. 
 
+![boxcurvessketch](/Images/pbr7.jpg)
+
 Now we started designing how will the spirulina be displayed and how would it work. The tricky part in this was integrating the electronics into the stand for the spirulina. Needing them to be sort of close but also protected in case of any spills.
 
 At first we wanted to create a base box that would hold the 4 bottles of spirulina we wanted to have, one for each of us. The design was intended to have the electronics in the box with the led lights facing upwards to the spirulina. We wanted to do the box with cnc and add some curves which would be done with milling so it would add a more organic aesthethic to it. 
@@ -31,7 +33,9 @@ After discussing it we realised it would take a lot of time to fabricate and we 
   
   -We also created the tool specifications, we used a Flat Mill of 6mm. We had to add the bridges in some of the pieces so they would stay in place and add the file of the screws. After defining all the settings we were ready to export the code. The screws file was exported individually and the rest of the layers were exported together. 
   
-  -Once we had the nc code we went to the machine, we put out glasses, hair tie and ear cuffs on (safety first). We cleaned the bed of the cnc of any extra material left from before, we placed our plywood sheet and aligned it to the borders of the bed. Then we calibrated the z axis with the button of the cnc. So we placed the button below the tip of the CNC and calibrated it. After getting that ready we opened our file in the computer and ran the screws file. 
+  -Once we had the nc code we went to the machine, we put out glasses, hair tie and ear cuffs on (safety first). 
+  
+  -We cleaned the bed of the cnc of any extra material left from before, we placed our plywood sheet and aligned it to the borders of the bed. Then we calibrated the z axis with the button of the cnc. So we placed the button below the tip of the CNC and calibrated it. After getting that ready we opened our file in the computer and ran the screws file. 
   
   -After the marks for the screws were done we moved the head of the CNC in order to get on top and screw. 
   
@@ -47,9 +51,12 @@ After discussing it we realised it would take a lot of time to fabricate and we 
   
   -Postprocessing: After getting all the pieces out, we started sanding them to remove excess bits and leave the piece smooth for assembling. 
   
-  ![boxcurvessketch](/Images/sketch5.jpg)
+  ![boxcurvessketch](/Images/pbr22.jpg)
   
   -Once the curves were ready we were able to glue them together. We applied a thin layer of glue and then used the clamps to hold it together while the glue was doing its job.
+  
+  ![boxcurvessketch](/Images/pbr21.jpg)
+  ![boxcurvessketch](/Images/pbr20.jpg)
   
 #### 3D PRINTING
 
@@ -65,6 +72,11 @@ After discussing it we realised it would take a lot of time to fabricate and we 
  
  -We spent some time taking out the extra filaments for support and sanding a bit some parts. Then we were able to assemble them for the stand. 
  
+ ![boxcurvessketch](/Images/pbr26.jpg)
+ ![boxcurvessketch](/Images/pbr19.jpg)
+ ![boxcurvessketch](/Images/pbr27.jpg)
+ ![boxcurvessketch](/Images/pbr28.jpg)
+ 
  #### ELECTRONICS
  
   - Figuring out all the connections to the power supply since we have an Air Pump of 220v, a peristaltic Pump of of 12v and a LED strip of 12v plus our microcontroller ESP32 feather to controll the timing of each component. 
@@ -78,7 +90,25 @@ After discussing it we realised it would take a lot of time to fabricate and we 
   
   -
  
+ ![boxcurvessketch](/Images/pbr15.jpg)![boxcurvessketch](/Images/pbr11.jpg) ![boxcurvessketch](/Images/pbr12.jpg) ![boxcurvessketch](/Images/pbr14.jpg) ![boxcurvessketch](/Images/pbr9.jpg) ![boxcurvessketch](/Images/pbr10.jpg) ![boxcurvessketch](/Images/pbr13.jpg) ![boxcurvessketch](/Images/pbr17.jpg) ![boxcurvessketch](/Images/pbr18.jpg)
  
+ #### LASER CUTTING
+ 
+  -We decided to laser cut an acrylic lid for the electronic box the have electronics visible. 
+  
+  -Marina prepared the file in rhino and inserted the GROW LAB text for it to be engraved. Once it was done we opened the file in the computer, calibrated the laser cutter with the tool. Chose our material and moved the laser to where we wanted it to start cutting. After this then we put the parameters for acrylic and the type of cut and we sent the job. 
+  
+ ![boxcurvessketch](/Images/pbr25.jpg)
+ 
+ #### 3D SCANNING
+ 
+  -We wanted to test the 3D scanning tools so we chose to use it to 3D model the neck of the bottles we would use in order to fix them to the rail. 
+  
+  -As the bottle is clear we then had to tape it around so the phone was able to identify the volume and scan it. 
+  
+  -This was a bit complicated and in the end the redult was not desirable and we went back to just measuring the different diameters in the bottle neck. 
+  
+  ![boxcurvessketch](/Images/pbr22.jpg)
 
 ### SYSTEM DIAGRAM (FUNCTION, PARTS, RELATIONS)
 

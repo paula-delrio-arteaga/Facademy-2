@@ -83,6 +83,10 @@ Now we started designing how will the spirulina be displayed and how would it wo
 
 ### ITERATION PROCESS (PROBLEMS AND SOLUTIONS)
 
+- We struggled first to find a design that could fit our necessities, the algae's and the electronic's. In this case we prioritised figuring out the electronics first and then seeing how we would connect them to the design.
+
+-Our idea at some point was to CNC 
+
 ### FUTURE DEVELOPMENT OPPORTUNITIES
 
 ### LINKS TO INDIVIDUAL PAGES

@@ -87,13 +87,11 @@ After discussing it we realised it would take a lot of time to fabricate and we 
   - Figuring out all the connections to the power supply since we have an Air Pump of 220v, a peristaltic Pump of of 12v and a LED strip of 12v plus our microcontroller ESP32 feather to controll the timing of each component. 
   - We thought we could use the power supply (12v 1A) from the LEDs to also connect the peristaltic pump since it has the same voltage. But after checking how many ampers each component needs, we decided to swith all the connections to a bigger power supply of 12v with 16.5 Ampers. In case we need to scale the project we would be able to connect more pumps to the same power supply. The LED requieres a 0.85 Ampers and the peristaltic pump 0.2 Ampers. 
   
-  -
+  - When all the connections and wiring was done we work on configuring the code. The code consisted on a set of different functions that controlled the 2 pumps indpendantly an the leds. The Air pumpwas controlled by the relay and the other componentes by 2 mosfets. 
   
-  -
+  - When a certain amount of milliseconds has passed we enter the void to start the pump and we keep counting if the time is more or equal to the starting time we leaeve the pump on and after if the time is more or equal to the other variable, that determines the amount of time the pump has to be on, we turn the pump off.
   
-  -
-  
-  -
+  - We also added a funcition to dim the leds.
  
  ![boxcurvessketch](/Images/pbr15.jpg)![boxcurvessketch](/Images/pbr11.jpg) ![boxcurvessketch](/Images/pbr12.jpg) ![boxcurvessketch](/Images/pbr14.jpg) ![boxcurvessketch](/Images/pbr9.jpg) ![boxcurvessketch](/Images/pbr10.jpg) ![boxcurvessketch](/Images/pbr13.jpg) ![boxcurvessketch](/Images/pbr17.jpg) ![boxcurvessketch](/Images/pbr18.jpg)
  
